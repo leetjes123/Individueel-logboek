@@ -1,4 +1,4 @@
-# MAAI - [Your Name] (Online Personal Repository)
+# MAAI - Leon van Dijk (Online Personal Repository)
 <!--
 ### Note
 Dit logboek ondersteunt het leeruitkomst D1: 
