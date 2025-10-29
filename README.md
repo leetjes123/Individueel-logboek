@@ -1,3 +1,4 @@
+
 # MAAI - Leon van Dijk (Online Personal Repository)
 <!--
 ### Note
@@ -77,21 +78,21 @@ Koppel hier je uitgevoerde activiteiten aan de criteria van de master.
 Gebruik **I** voor individueel werk en **G** voor groepsactiviteiten.  
 Zorg dat je per leeruitkomst het bewijs (code, repo, documentatie) vermeldt.
 
-| Criteria | I/G | Activiteit / Bewijs |
-|---------------|-----|--------------------|
-| A1 | I |  |
-| A2 | G |  |
-| A3 | I |  |
-| A4 | G |  |
-| B1 | I |  |
-| B2 | G |  |
-| B3 | I |  |
-| C1 | G |  |
-| C2 | I |  |
-| C3 | G |  |
+| Criteria | I/G | Activiteit | Bewijs |
+|---------------|-----|--------|------------|
+| A1 | I | Stakeholder interview gehouden met een eigenaar van een PLUS supermarkt. Dit heeft geleid tot belangrijke inzichten voor het in kaart brengen van het probleem | Bewijs is te vinden in Sectie 2.2.3-4 van het [Eindrapport](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/report/Eindrapport-v0.7.pdf?ref_type=heads)
+| A2 | G | In groepsvorm hebben we de requirements voor het ontwerp in grote lijnen opgesteld.  | Bewijs is te vinden in Sectie 3 van het [Eindrapport](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/report/Eindrapport-v0.7.pdf?ref_type=heads)
+| A3 | I | Ik heb specifiek achtergrondonderzoek gedaan naar de privacywetgeving om richtlijnen te stellen voor het ontwerp van onze AI-oplossing. Dit is later uitgebreid door een groepsgenoot (Merve) | Bewijs is te vinden in Sectie 2.2.2 van het [Eindrapport](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/report/Eindrapport-v0.7.pdf?ref_type=heads) 
+| A4 | G | Binnen het project zelf nog geen werkzaamheden gedaan m.b.t. A4. Wel heb ik tijdens de ontwerpworkshop over niveaus van automatisering veel geleerd. In de les hebben we dit ook toegepast op een casus in groepsvorm | Ontwerpworkshop
+| B1 | I | Binnen het data-aspect van ons project was ik verantwoordelijk voor het pre-processen van de dataset. In dit geval het herkennen en croppen van gezichten uit de originele images mbv YOLOv8 | Bewijs is te vinden in de volgende [Code](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Code%20en%20deelproducten/Data%20Preprocessing/process.py)
+| B2 | I | Ik ben binnen ons project grotendeels verantwoordelijk geweest voor het vaststellen van de model-architectuur (VGG16) op basis van bestaande literatuur. | Bewijs is te vinden in Sectie 4 van het [Eindrapport](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/report/Eindrapport-v0.7.pdf?ref_type=heads)
+| B3 | I | Om tot de eindversie van het model voor ons project te komen ben ik grotendeels verantwoordelijk geweest voor de aanpassingen die we hebben stap voor stap hebben doorlopen in de 3 iteraties| Bewijs is te vinden in Sectie 4.3 van het [Eindrapport](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/report/Eindrapport-v0.7.pdf?ref_type=heads). Verder is de code voor het trainen van de verschillende iteraties te vinden op [deze repo](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/tree/main/Code%20en%20deelproducten/Modeling?ref_type=heads)
+| C1 | G | Ik heb met groepsgenoten én studiegenoten gediscussieerd over de ethische aspecten van AI. Zowel in de les, als daarbuiten.  |
+| C2 | I | Voor ons computer-vision model voor leeftijdsherkenning heb ik per iteratie het model geëvalueerd met bestaande metrics (MAE), en heb een eigen metric geformuleerd die specifiek is aan het onderwerp leeftijdsverificatie (nalevingspercentage) | Bewijs is te vinden in Sectie X van het [Eindrapport](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/report/Eindrapport-v0.7.pdf?ref_type=heads). De bijbehorende code is te vinden op [deze repo](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/Code%20en%20deelproducten/Performance%20Evaluation/evaluate.py)
+| C3 | G | Tijdens de ontwerpworkshop hebben we als groep een paper-prototype getest met CMD-studenten. De feedback die we kregen tijdens deze test heeft ons geholpen om ons ontwerp aan te passen. | Ontwerpworkshop
 | D1 | I |  |
-| D2 | G |  |
-| D3 | I |  |
+| D2 | I | Ik heb een plan van aanpak gemaakt voor mijn eigen onderzoeksartikel, en deze op niveau afgesloten. | (DLO) PvA
+| D3 | I | Ik werk met het mini-symposium aan een nog niet onderzocht vraagstuk binnen AI. Dit onderzoek leg ik vast in mijn onderzoeksartikel. | (In progress)
 
 ---
 
@@ -100,8 +101,8 @@ Gebruik deze tabel doorlopend tijdens het blok om feedback te verzamelen en te t
 
 | Datum (dd/mm/yyyy) | Van wie | Ontvangen feedback | Hoe ik het heb gebruikt | Conclusie en inzicht | Bewijs (repo, doc, code) |
 |--------------------|---------|--------------------|-------------------------|----------------------|--------------------------|
-|  |  |  |  |  |  |
-
+| 23/09/2025  | Kaan | Feedback m.b.t. de verslaglegging van mijn enquete en interview | De geschreven stukken verbeterd, en mezelf scherpstellen op de details van verslaglegging. | Ik moet het belang van details van de verslaglegging inzien. Dit is belangrijker dan ik zelf door heb. |  |
+|	03/10/2025 | Yusra | Ik heb zonder Yusra te raadplegen met Kaan beslist om een van haar taken deels over te nemen, in de overtuiging dat ze dit geen probleem zou vinden. Dit vond Yusra (achteraf begrijpelijk) erg vervelend | We hebben aangeboden om Yusra nogmaals zelf haar eigen taak te laten uitvoeren. | Je kan niet zomaar een aanname maken voor een ander. Het is belangrijk om altijd te communiceren. |  | 
 ---
 
 # STARRT - Intake
@@ -109,12 +110,12 @@ Gebruik de STARRT-methode voor het intakegesprek (week 1–2).
 
 | **Stap** | **Beschrijving** | **Aantekeningen** | **Bewijs (repo, doc, code)** |
 |-----------|------------------|------------------|-----------------------------|
-| **S – Situatie** | Waar bevind je je nu? Sterke punten, uitdagingen, achtergrond. |  |  |
-| **T – Taak** | Wat zijn je doelen of verantwoordelijkheden (gekoppeld aan leerresultaten)? |  |  |
-| **A – Actie** | Welke stappen heb je gepland of genomen? |  |  |
-| **R – Resultaat** | Wat is er bereikt tot nu toe? |  |  |
-| **R – Reflectie** | Wat heb je geleerd over jezelf? |  |  |
-| **T – Transfer** | Hoe pas je dit toe in het vervolg van het blok of toekomst? |  |  |
+| **S – Situatie** | Waar bevind je je nu? Sterke punten, uitdagingen, achtergrond. | Uit de zelfevaluatie blijkt dat mijn grootste uitdagingen liggen bij de ethische vraagstukken die AI oproept. | Zelfevaluatie |
+| **T – Taak** | Wat zijn je doelen of verantwoordelijkheden (gekoppeld aan leerresultaten)? | Mijn doelen zijn: Actief taken op me nemen die mijn uitdagen om over ethiek na te denken. Ook wil ik buiten het project om extra lesstof tot me nemen om over ethiek te leren. |  |
+| **A – Actie** | Welke stappen heb je gepland of genomen? | Tijdens de lessen van Sophie wil ik focussen op actieve deelname aan de klassikale discussies, in plaats van passief luisteren. Ook wil ik minimaal 1 ethiek-gerelateerde taak binnen het project op me nemen    |  |
+| **R – Resultaat** | Wat is er bereikt tot nu toe? | Ik heb tijdens de lessen van Sophie interessante discussies gevoerd over onderwerpen als intelligentie en privacy. Het is helaas niet gelukt om een ethiek-gerelateerde taak op me te nemen |  |
+| **R – Reflectie** | Wat heb je geleerd over jezelf? | Ik vind het praten over ethiek leuker dan ik had verwacht. Ik merk wel dat mijn hoofd het lastig vindt dat er bij ethische vraagstukken geen eenduidige "waardheid" is |  |
+| **T – Transfer** | Hoe pas je dit toe in het vervolg van het blok of toekomst? | Ik wil doorgaan met het actief deelnemen aan de discussies in de les, maar ik wil ook buiten de lesstof om extra leren over AI-specifieke ethiek |  |
 | **Opmerkingen** | Extra notities of feedback. |  |  |
 
 ---
@@ -124,36 +125,16 @@ Gebruik deze STARRT-reflectie voor het voortgangsgesprek (halverwege het blok).
 
 | **Stap** | **Beschrijving** | **Aantekeningen** | **Bewijs (repo, doc, code)** |
 |-----------|------------------|------------------|-----------------------------|
-| **S – Situatie** | Wat is de huidige stand van zaken? |  |  |
-| **T – Taak** | Wat was jouw taak of doel? |  |  |
-| **A – Actie** | Welke acties heb je ondernomen? |  |  |
-| **R – Resultaat** | Wat is eruit gekomen? |  |  |
-| **R – Reflectie** | Wat heb je geleerd? |  |  |
-| **T – Transfer** | Hoe pas je dit toe in de rest van het blok of toekomst? |  |  |
+| **S – Situatie** | Wat is de huidige stand van zaken? | Mijn zelfvertrouwen in mijn kennis over ethiek is gegroeid ten opzichte van de start van het blok. Echter is het nog steeds niet op het niveau waar ik naar streef. Ik zie het nog steeds als mijn grootste uitdaging. |  |
+| **T – Taak** | Wat was jouw taak of doel? | Mijn doelen waren: Actief taken op me nemen die mij uitdagen om over ethiek na te denken. Ook wil ik buiten het project om extra lesstof tot me nemen om over ethiek te leren. |  |
+| **A – Actie** | Welke acties heb je ondernomen? | Ik ben actief blijven deelnemen aan de discussies in de ethiek lessen. Verder heb ik sophie om een paper gevraagd om mijn kennis bij te spijkeren buiten de lessen om. Ook heb ik een stuk geschreven over de regelgeving van AI op het gebied van privacy. | [This paper](https://icthva.sharepoint.com/:w:/r/sites/FDMCI_EDU_HBOICT_Master_AAI_2025_26/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Ba4bc92a5-fe1f-4576-988a-f717b1b3544f%7D&wdOrigin=TEAMS-MAGLEV.teams_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1761736146180&web=1), Sectie 2.2.2 van het [Eindrapport](https://gitlab.fdmci.hva.nl/maai/2025-2026-1-b1/class-1-team-1/-/blob/main/report/Eindrapport-v0.7.pdf?ref_type=heads)  |
+| **R – Resultaat** | Wat is eruit gekomen? | Ik heb een erg interessant paper gelezen over verantwoordt gebruik van AI binnen de media, en de effecten die dit kan hebben op de maatschappij |  |
+| **R – Reflectie** | Wat heb je geleerd? | Ik merk dat ik ethiek steeds leuker ga vinden, hoe meer ik er mee bezig ben. Hierdoor krijg ik ook meer zelfvetrouwen om ethiek-gerelateerde taken op me te nemen. Ik denk wel dat het nooit mijn favoriete onderwerp gaat zijn, omdat ik erg technisch ben ingesteld. |  |
+| **T – Transfer** | Hoe pas je dit toe in de rest van het blok of toekomst? | Ik wil dit keer, als de mogelijkheid zich toedient, een grote ethiek-gerelateerde taak op me nemen. Ik voel dat mijn zelfvertrouwen erg sterk genoeg voor is geworden. |  |
 | **Opmerkingen** | Extra notities of feedback. |  |  |
 
 ---
 
-# Zelfevaluatie
-Gebruik dit overzicht om je eigen niveau te beoordelen en je focus per blok te bepalen.
-
-| Leerresultaat | Mijn niveau (onder/gemiddeld/boven) | Mijn focus dit blok |
-|----------------|--------------------------------------|---------------------|
-| A1 |  |  |
-| A2 |  |  |
-| A3 |  |  |
-| A4 |  |  |
-| B1 |  |  |
-| B2 |  |  |
-| B3 |  |  |
-| C1 |  |  |
-| C2 |  |  |
-| C3 |  |  |
-| D1 |  |  |
-| D2 |  |  |
-| D3 |  |  |
-
----
 
 # Conclusies & Inzichten
 Gebruik dit gedeelte aan het einde van het blok.  
@@ -167,10 +148,8 @@ Beschrijf wat je geleerd hebt, welke feedback het meest waardevol was, hoe je pr
 ---
 
 # Metadata
-- **Naam:** [Your Name]  
-- **Studentnummer:** [Your ID]  
-- **Coach:** [Coach Name]  
+- **Naam:** Leon van Dijk	  
+- **HvA-ID:** dijkls1  
+- **Coach:** Lamia Elloumi 
 - **Blok:** 1  
 - **Versie:** 1.0  
-- **Laatste update:** YYYY-MM-DD
-
