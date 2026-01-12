@@ -106,6 +106,10 @@ Gebruik deze tabel doorlopend tijdens het blok om feedback te verzamelen en te t
 |--------------------|---------|--------------------|-------------------------|----------------------|--------------------------|
 | 23/09/2025  | Kaan | Feedback m.b.t. de verslaglegging van mijn enquete en interview | De geschreven stukken verbeterd, en mezelf scherpstellen op de details van verslaglegging. | Ik moet het belang van details van de verslaglegging inzien. Dit is belangrijker dan ik zelf door heb. |  |
 |	03/10/2025 | Yusra | Ik heb zonder Yusra te raadplegen met Kaan beslist om een van haar taken deels over te nemen, in de overtuiging dat ze dit geen probleem zou vinden. Dit vond Yusra (achteraf begrijpelijk) erg vervelend | We hebben aangeboden om Yusra nogmaals zelf haar eigen taak te laten uitvoeren. | Je kan niet zomaar een aanname maken voor een ander. Het is belangrijk om altijd te communiceren. |  | 
+| 17/10/2025 | Michelangelo M&T1b | Je doet in een iteratie verschillende veranderingen tegelijkertijd. Dit is onhandig, omdat je zo niet weet waar de verbetering vandaan komt. | Meegenomen naar datapunt 2a | Dit is een heel belangrijk punt voor zowel individuele opdrachten als groepswerk. Hier moet ik wat mee doen. | Voor datapunt 2a, requirement B3 op niveau |
+| 04/11/2025 | Marcio Artikel blok 1 | (-) A series of runs would be necessary to draw firm conclusions. (-) Additional checks, such as examining edge cases, heatmaps and including pre-cropped UTKFace, would make the experiment more comprehensive. | Meegenomen naar 2e artikel | Ik heb inzicht gekregen in dat slechts 1 run van een experiment niet altijd gedegen genoeg is voor betrouwbare conlusies. Dit wil ik in verdere experimenten graag verbeteren. | Nog te bewijzen | 
+| 17/12/2025 | Lamia PvA blok 2 | Limited sources, and few scientific ressources. | Op voortbouwen in artikel | Over het hoofd gezien dat mijn bronnen niet academisch genoeg waren. Ging niet bewust. Gewoon beter op letten volgende keer | |
+
 ---
 
 # STARRT - Intake
